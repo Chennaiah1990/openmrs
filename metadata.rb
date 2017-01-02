@@ -17,3 +17,4 @@ version '0.1.0'
 # a Supermarket.
 #
 # source_url 'https://github.com/<insert_org_here>/openmrs' if respond_to?(:source_url)
+depends 'java', '= 1.26.0'
